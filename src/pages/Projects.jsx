@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { ExternalLink, Github, CheckCircle2, PlayCircle } from "lucide-react";
+import { Github, CheckCircle2, PlayCircle } from "lucide-react";
 
 const project = {
   title: "SWADSEVA",
