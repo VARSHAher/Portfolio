@@ -82,8 +82,8 @@ const ContactPage = () => {
           {/* Socials & CV with Brand Green */}
           <div className="mt-16 space-y-6">
             <a 
-              href="/RESUME.pdf" 
-              download="VARSHA.pdf"
+              href="/Varsha_Chowdhury_Resume.pdf" 
+              download="VARSHACHOWDHURY.pdf"
               className="flex items-center justify-center gap-3 w-full py-4 bg-[#45b69c] hover:bg-[#3ca189] text-white rounded-2xl font-bold transition-all shadow-lg shadow-[#45b69c]/20 hover:scale-[1.02]"
             >
               <FileDown size={22} />
